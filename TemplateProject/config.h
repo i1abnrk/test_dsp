@@ -1,16 +1,16 @@
-#define PLUG_NAME "TemplateProject"
-#define PLUG_MFR "AcmeInc"
-#define PLUG_VERSION_HEX 0x00000100
-#define PLUG_VERSION_STR "0.1.0"
+#define PLUG_NAME "EditedProject"
+#define PLUG_MFR "SevenAutumns"
+#define PLUG_VERSION_HEX 0x00000200
+#define PLUG_VERSION_STR "0.2.0"
 #define PLUG_UNIQUE_ID '9c0G'
-#define PLUG_MFR_ID 'Acme'
+#define PLUG_MFR_ID '7AM'
 #define PLUG_URL_STR "https://iplug2.github.io"
 #define PLUG_EMAIL_STR "spam@me.com"
-#define PLUG_COPYRIGHT_STR "Copyright 2024 Acme Inc"
+#define PLUG_COPYRIGHT_STR "Copyright 2024 Seven Autumns"
 #define PLUG_CLASS_NAME TemplateProject
 
-#define BUNDLE_NAME "TemplateProject"
-#define BUNDLE_MFR "AcmeInc"
+#define BUNDLE_NAME "EditedProject"
+#define BUNDLE_MFR "sevenautumns"
 #define BUNDLE_DOMAIN "com"
 
 #define SHARED_RESOURCES_SUBPATH "TemplateProject"
@@ -42,7 +42,7 @@
 
 #define AAX_TYPE_IDS 'ITP1'
 #define AAX_TYPE_IDS_AUDIOSUITE 'ITA1'
-#define AAX_PLUG_MFR_STR "Acme"
+#define AAX_PLUG_MFR_STR "7AM"
 #define AAX_PLUG_NAME_STR "TemplateProject\nIPEF"
 #define AAX_PLUG_CATEGORY_STR "Effect"
 #define AAX_DOES_AUDIOSUITE 1

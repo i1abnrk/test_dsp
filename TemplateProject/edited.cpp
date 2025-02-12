@@ -1,4 +1,4 @@
-#include "TemplateProject.h"
+#include "edited.h"
 #include "IPlug_include_in_plug_src.h"
 
 #if IPLUG_EDITOR
